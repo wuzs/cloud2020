@@ -220,6 +220,14 @@
         </CLASSES>
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="cloud-api-commons"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/cn/hutool/hutool-all/5.1.0/hutool-all-5.1.0.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
