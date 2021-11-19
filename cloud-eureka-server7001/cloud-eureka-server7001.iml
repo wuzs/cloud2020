@@ -13,7 +13,21 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-jdbc/2.2.2.RELEASE/spring-boot-starter-jdbc-2.2.2.RELEASE.jar!/"/>
+          <root url="jar://D:/mavenRep/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.2.1.RELEASE/spring-cloud-starter-netflix-eureka-server-2.2.1.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/cloud/spring-cloud-starter/2.2.1.RELEASE/spring-cloud-starter-2.2.1.RELEASE.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>
@@ -146,146 +160,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/mavenRep/com/zaxxer/HikariCP/3.4.1/HikariCP-3.4.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/spring-jdbc/5.2.2.RELEASE/spring-jdbc-5.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/spring-tx/5.2.2.RELEASE/spring-tx-5.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-actuator/2.2.2.RELEASE/spring-boot-starter-actuator-2.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.2.RELEASE/spring-boot-actuator-autoconfigure-2.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-actuator/2.2.2.RELEASE/spring-boot-actuator-2.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.10.1/jackson-datatype-jsr310-2.10.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/fasterxml/jackson/core/jackson-core/2.10.1/jackson-core-2.10.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/fasterxml/jackson/core/jackson-databind/2.10.1/jackson-databind-2.10.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/io/micrometer/micrometer-core/1.3.1/micrometer-core-1.3.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/hdrhistogram/HdrHistogram/2.1.11/HdrHistogram-2.1.11.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/mybatis/spring/boot/mybatis-spring-boot-starter/1.3.0/mybatis-spring-boot-starter-1.3.0.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.0/mybatis-spring-boot-autoconfigure-1.3.0.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.2.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.2.1.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/cloud/spring-cloud-starter/2.2.1.RELEASE/spring-cloud-starter-2.2.1.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://D:/mavenRep/org/springframework/cloud/spring-cloud-context/2.2.1.RELEASE/spring-cloud-context-2.2.1.RELEASE.jar!/"/>
         </CLASSES>
       </library>
@@ -322,6 +196,209 @@
       <library>
         <CLASSES>
           <root url="jar://D:/mavenRep/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.1.RELEASE/spring-cloud-netflix-eureka-server-2.2.1.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-web/2.2.2.RELEASE/spring-boot-starter-web-2.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-json/2.2.2.RELEASE/spring-boot-starter-json-2.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/core/jackson-databind/2.10.1/jackson-databind-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/core/jackson-core/2.10.1/jackson-core-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.10.1/jackson-datatype-jdk8-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.10.1/jackson-datatype-jsr310-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/module/jackson-module-parameter-names/2.10.1/jackson-module-parameter-names-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-tomcat/2.2.2.RELEASE/spring-boot-starter-tomcat-2.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/apache/tomcat/embed/tomcat-embed-el/9.0.29/tomcat-embed-el-9.0.29.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.29/tomcat-embed-websocket-9.0.29.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-validation/2.2.2.RELEASE/spring-boot-starter-validation-2.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/jakarta/validation/jakarta.validation-api/2.0.1/jakarta.validation-api-2.0.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/hibernate/validator/hibernate-validator/6.0.18.Final/hibernate-validator-6.0.18.Final.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/spring-webmvc/5.2.2.RELEASE/spring-webmvc-5.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-actuator/2.2.2.RELEASE/spring-boot-starter-actuator-2.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.2.RELEASE/spring-boot-actuator-autoconfigure-2.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-actuator/2.2.2.RELEASE/spring-boot-actuator-2.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/io/micrometer/micrometer-core/1.3.1/micrometer-core-1.3.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/hdrhistogram/HdrHistogram/2.1.11/HdrHistogram-2.1.11.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-freemarker/2.2.2.RELEASE/spring-boot-starter-freemarker-2.2.2.RELEASE.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/freemarker/freemarker/2.3.29/freemarker-2.3.29.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/springframework/spring-context-support/5.2.2.RELEASE/spring-context-support-5.2.2.RELEASE.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>
@@ -566,7 +643,126 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+          <root url="jar://D:/mavenRep/com/sun/jersey/jersey-servlet/1.19.1/jersey-servlet-1.19.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/sun/jersey/jersey-server/1.19.1/jersey-server-1.19.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
           <root url="jar://D:/mavenRep/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/amazonaws/aws-java-sdk-core/1.11.415/aws-java-sdk-core-1.11.415.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/software/amazon/ion/ion-java/1.0.2/ion-java-1.0.2.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.10.1/jackson-dataformat-cbor-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/amazonaws/aws-java-sdk-ec2/1.11.415/aws-java-sdk-ec2-1.11.415.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/amazonaws/jmespath-java/1.11.415/jmespath-java-1.11.415.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/amazonaws/aws-java-sdk-autoscaling/1.11.415/aws-java-sdk-autoscaling-1.11.415.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/amazonaws/aws-java-sdk-sts/1.11.415/aws-java-sdk-sts-1.11.415.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/amazonaws/aws-java-sdk-route53/1.11.415/aws-java-sdk-route53-1.11.415.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.10.1/jackson-dataformat-xml-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.10.1/jackson-module-jaxb-annotations-2.10.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/codehaus/woodstox/stax2-api/4.2/stax2-api-4.2.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>
@@ -580,7 +776,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/mavenRep/org/codehaus/woodstox/stax2-api/4.2/stax2-api-4.2.jar!/"/>
+          <root url="jar://D:/mavenRep/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>
@@ -602,13 +798,6 @@
       <library>
         <CLASSES>
           <root url="jar://D:/mavenRep/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.1.RELEASE/spring-cloud-netflix-archaius-2.2.1.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>
@@ -755,13 +944,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/spring-context-support/5.2.2.RELEASE/spring-context-support-5.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://D:/mavenRep/com/stoyanr/evictor/1.0.0/evictor-1.0.0.jar!/"/>
         </CLASSES>
       </library>
@@ -770,6 +952,41 @@
       <library>
         <CLASSES>
           <root url="jar://D:/mavenRep/com/netflix/ribbon/ribbon-eureka/2.3.0/ribbon-eureka-2.3.0.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/glassfish/jaxb/jaxb-runtime/2.3.2/jaxb-runtime-2.3.2.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/glassfish/jaxb/txw2/2.3.2/txw2-2.3.2.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/sun/istack/istack-commons-runtime/3.0.8/istack-commons-runtime-3.0.8.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/org/jvnet/staxex/stax-ex/1.8.1/stax-ex-1.8.1.jar!/"/>
+        </CLASSES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/mavenRep/com/sun/xml/fastinfoset/FastInfoset/1.2.16/FastInfoset-1.2.16.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>
@@ -785,20 +1002,6 @@
       <library>
         <CLASSES>
           <root url="jar://D:/mavenRep/cn/hutool/hutool-all/5.1.0/hutool-all-5.1.0.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/alibaba/druid-spring-boot-starter/1.1.10/druid-spring-boot-starter-1.1.10.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/alibaba/druid/1.1.16/druid-1.1.16.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>
@@ -848,20 +1051,6 @@
       <library>
         <CLASSES>
           <root url="jar://D:/mavenRep/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>
@@ -1015,112 +1204,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-web/2.2.2.RELEASE/spring-boot-starter-web-2.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-json/2.2.2.RELEASE/spring-boot-starter-json-2.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.10.1/jackson-datatype-jdk8-2.10.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/fasterxml/jackson/module/jackson-module-parameter-names/2.10.1/jackson-module-parameter-names-2.10.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-tomcat/2.2.2.RELEASE/spring-boot-starter-tomcat-2.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/apache/tomcat/embed/tomcat-embed-el/9.0.29/tomcat-embed-el-9.0.29.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.29/tomcat-embed-websocket-9.0.29.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/boot/spring-boot-starter-validation/2.2.2.RELEASE/spring-boot-starter-validation-2.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/jakarta/validation/jakarta.validation-api/2.0.1/jakarta.validation-api-2.0.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/hibernate/validator/hibernate-validator/6.0.18.Final/hibernate-validator-6.0.18.Final.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/org/springframework/spring-webmvc/5.2.2.RELEASE/spring-webmvc-5.2.2.RELEASE.jar!/"/>
-        </CLASSES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://D:/mavenRep/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/"/>
+          <root url="jar://D:/mavenRep/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar!/"/>
         </CLASSES>
       </library>
     </orderEntry>

@@ -102,6 +102,7 @@ under the License.
       <module filepath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml"/>
       <module filepath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml"/>
       <module filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml"/>
+      <module filepath="$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml"/>
     </modules> 
   </component>  
   <UsedPathMacros> 
