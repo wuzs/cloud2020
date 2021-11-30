@@ -12,6 +12,8 @@
     <module>cloud-consumer-order80</module>
     <module>cloud-api-commons</module>
     <module>cloud-eureka-server7001</module>
+      <module>cloud-eureka-server7002</module>
+      <module>cloud-provider-payment8002</module>
   </modules>
   <packaging>pom</packaging>
 
@@ -92,17 +94,6 @@
   <build>
     <plugins>
       <plugin>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <!-- 编译级别 -->
-        <configuration>
-          <source>1.8</source>
-          <target>1.8</target>
-          <!-- 编码格式 -->
-          <encoding>UTF-8</encoding>
-        </configuration>
-      </plugin>
-
-      <plugin>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
@@ -112,6 +103,5 @@
       </plugin>
     </plugins>
   </build>
-
 </project>
 
