@@ -42,4 +42,21 @@ public class PaymentController {
 
 
     }
+
+    @GetMapping("/payment/lb")
+    public String getPaymentLB(){
+        return serverPort;
+    }
+
+
+
+    @GetMapping("/payment/feign/timeout")
+    public String feignTimeOut(){
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return serverPort;
+    }
 }
